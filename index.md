@@ -1,6 +1,6 @@
 ## Welcome to BIODS215 Topics in Biomedical Data Science: Large-scale inference
 
-This page will be used to host Github repositories for the class. 
+This page will be used to host Github repositories for the course. 
 
 
 ### Course Instructors
