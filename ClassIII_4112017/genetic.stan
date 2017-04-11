@@ -4,15 +4,15 @@ data {
      real<lower=0> sigma[J];  // standard error of effect estimates
       }
 parameters {
-     real beta;
+     real mu;
      real<lower=0> tau;
      vector[J] eta;
 	    }
 transformed parameters {
-     vector[J] theta;
-     theta = beta + tau * eta;
+     vector[J] beta;
+     beta = mu + tau * eta;
         }
 model {
      target += normal_lpdf(eta | 0, 1);
-     target += normal_lpdf(betahat | theta, sigma);
+     target += normal_lpdf(betahat | beta, sigma);
        }
