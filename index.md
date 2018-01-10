@@ -18,3 +18,8 @@ For course content for 2018 Winter quarter, [please go to this page](class_websi
 
 [Yosuke Tanigawa](<mailto:ytanigaw@stanford.edu>)
 
+### course websites form previous years
+
+- [2018 Winter](class_website/2018.md)
+- [2017 Spring](class_website/2017.md)
+
