@@ -8,11 +8,9 @@ For course content for [2020 Winter quarter, please go to this page](class_websi
 
 #### Instructors
 
-[Manuel A. Rivas](<mailto:mrivas@stanford.edu>)
-
-[Julia Salzman](<mailto:horence@stanford.edu>)
-
-[James Zou](<mailto:jamesz@stanford.edu>)
+- [Manuel A. Rivas](<mailto:mrivas@stanford.edu>)
+<!-- - [Julia Salzman](<mailto:horence@stanford.edu>) -->
+- [James Zou](<mailto:jamesz@stanford.edu>)
 
 #### TA
 
