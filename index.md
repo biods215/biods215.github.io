@@ -1,7 +1,7 @@
 ## Welcome to BIODS215 Topics in Biomedical Data Science: Large-scale inference
 
 
-For course content for 2018 Winter quarter, [please go to this page](class_website/2018.md). 
+For course content for [2020 Winter quarter, please go to this page](class_website/2020.md). 
 
 
 ### Teaching team
@@ -20,6 +20,7 @@ For course content for 2018 Winter quarter, [please go to this page](class_websi
 
 ### course websites form previous years
 
+- [2020 Winter](class_website/2020.md)
 - [2018 Winter](class_website/2018.md)
 - [2017 Spring](class_website/2017.md)
 
